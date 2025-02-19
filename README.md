@@ -1,4 +1,4 @@
-# Power BI Capstone Projext
+# Power BI Capstone Project
 Visualized real-time data using Power BI.
 Created an interactive dashboard with data models and Power Query Editor to extract insights with 95% accuracy.
 Utilized Power BI tools to build dynamic charts, diagrams, and reports for better data interpretation.
